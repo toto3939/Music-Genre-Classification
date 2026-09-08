@@ -50,6 +50,11 @@ Each model is evaluated using:
 * Antonio Treviglio
 * Eleonora Berra
 * Federico Giacopuzzi
-* Tekla Gizella Kalmár
-Master’s degree in music and Acoustic Engineering
+* Tekla Gizella Kalmár  
+Master’s degree in music and Acoustic Engineering  
 Politecnico di Milano
+
+
+
+
+
