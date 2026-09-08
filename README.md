@@ -52,7 +52,7 @@ Each model is evaluated using:
 * Federico Giacopuzzi
 * Tekla Gizella Kalmár
 
-Master’s degree in music and Acoustic Engineering  
+Master’s degree in Music and Acoustic Engineering  
 Politecnico di Milano
 
 
